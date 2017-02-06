@@ -5,7 +5,7 @@ I have gutted and rebuilt a house from frame to finish.
 I have set-up and operated a number of supercritical fluid systems as a member of PHASEX and in the course of my research.
 I have electrospun metallic nanowires and taken SEM images of the thin-films produced.
 I have redesigned and implemented a new technique to generate blade worth curves in Nuclear Reactors.
-I have created a back-end and front-end interface for BWR outage dosage reduction & planning tool.
+I have created a back-end and front-end interface for a BWR outage dosage reduction & planning tool.
 I am familiar with c++, C#, python, MATLAB, and AMPL. 
 I am comfortable teaching thermodynamics, heat transfer, process design, mass transfer, and any mathematics up to (analytic) partial differential equations.
 Currently, I am working on the following projects:
